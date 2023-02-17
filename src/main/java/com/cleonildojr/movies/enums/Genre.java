@@ -7,6 +7,8 @@ public enum Genre {
     ACTION("Action"),
     ADVENTURE("Adventure"),
     COMEDY("Comedy"),
+    FANTASY("Fantasy"),
+    SCIFI("Sci-Fi"),
     DANCE("Dance"),
     DRAMA("Drama"),
     MUSICAL("Musical"),
